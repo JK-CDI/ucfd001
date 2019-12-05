@@ -1,9 +1,67 @@
+#######################################################################
 Scope Of Project 
 
+External user’s goal:
+What the site is about:
 Web Hosting Company Services
    - WordPress hosting.
    - VPS hosting.
    - Dedicated hosting.
    - Email.
-   - VPN Services
+   - VPN Services.
 
+
+Potential features to include:
+- Boostrap: Nav
+- Boostrap: Marketing Carousel Image x 3.jpg
+- Main Pages in nav will be contained within the index page
+- Specific services may have there own page
+- Site should be smooth and have scroll to top easy transitions
+- Basic font scheme. 
+
+Advanced features:
+Showcase portfolio of projects so far (in-lieu of links to real projects that you'd build later, feel free to include links to fake projects or random sites on the internet at this stage)
+
+#######################################################################
+
+
+Check List 
+
+Usability and Visual Impact:
+-Project Purpose
+-UX design
+-Suitability for purpose
+-Navigation
+-Ease of use
+-Information Architecture
+
+Layout and Visual Impact:
+-Responsive Design
+-Image Presentation
+-Colour scheme and typography
+
+Code Quality:
+-Appropriate use of HTML
+-Appropriate use of CSS
+
+Software Development practices:
+-Directory Structure and File Naming
+-Version control
+-Testing implementation
+-Testing write-up
+-Readme file
+-Comments
+-Deployment implementation
+-Deployment write-up
+
+
+
+==================================================
+
+Suggestions mentor
+
+1) Name on left menu on right
+2) Icons. 
+3) Mock up credit card.
+4) Buttons get Started to the about.
+6) think from a users point of view.
