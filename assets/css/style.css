@@ -1,9 +1,38 @@
 body {
 	background-color: grey;
+	font-family: Helvetica, Arial, sans-serif;
 }
 
 .displayInlineblock {
 	display: inline-block;
+}
+
+.get-started-btn {
+	text-align: center;
+	text-decoration: none;
+	font-family: "Open Sans", Arial, sans-serif;
+	font-weight: 500;
+	line-height: 1;
+	background-color: #6ace26;
+	border: 1px solid #6ace26;
+	margin-bottom: 1rem;
+	color: #fff;
+	border-radius: 0.2rem;
+	overflow: hidden;
+	transition: all 2s ease;
+	font-size: 1.3rem;
+	padding: 0.8rem 2rem;
+}
+
+/*---------------- carousel custom --- */
+.carousel-item {
+	max-height: 500px;
+}
+
+.carousel-caption-background {
+	background-color: black;
+	opacity: 0.7;
+	font-weight: bolder;
 }
 
 .custom-row-height {
@@ -14,10 +43,14 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
+	margin: 0;
 }
 
 #about-us {
-	background-color: #aaffff;
+	background-color: #ffffff;
+	border: solid silver 1px;
+	text-align: center;
+	color: #5588d3;
 }
 #services {
 	background-color: purple;
@@ -28,14 +61,6 @@ body {
 
 #contact {
 	background-color: yellow;
-}
-
-/*---------------- carousel custom --- */
-.carousel-item {
-	max-height: 400px;
-	overflow: hidden;
-}
-.carousel-item img {
 }
 
 /*--------------------Footer */

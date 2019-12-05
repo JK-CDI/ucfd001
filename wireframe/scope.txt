@@ -1,0 +1,9 @@
+Scope Of Project 
+
+Web Hosting Company Services
+   - WordPress hosting.
+   - VPS hosting.
+   - Dedicated hosting.
+   - Email.
+   - VPN Services
+
