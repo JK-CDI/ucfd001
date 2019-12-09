@@ -90,7 +90,7 @@ body {
 .page-headings-description {
 	padding-left: 15px;
 }
-/* ------------------------MAIN CONTENT ---*/
+/* ------------------------About Us Page ---*/
 #about-us {
 	background-color: #ffffff;
 	border: solid silver 1px;
@@ -107,10 +107,19 @@ body {
 	color: grey;
 }
 
+/*------------------Services Page-------*/
 #services {
 	background-color: #ededed;
 	border: solid silver 1px;
 }
+
+.services-discount-txt {
+	color: orange;
+	font-weight: bold;
+	font-size: 1.1em;
+}
+
+/*------------------Pricing Page-------*/
 #pricing {
 	background-color: #ededed;
 	border: solid silver 1px;
