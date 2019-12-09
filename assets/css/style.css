@@ -38,6 +38,9 @@ body {
 .displayInlineblock {
 	display: inline-block;
 }
+.page-headings{
+	margin-top: 50px;
+}
 
 #logo {
 	color: #5588d3;
