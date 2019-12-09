@@ -8,6 +8,27 @@ body {
 	position: relative;
 }
 
+/*-------------Custom Colors-------------*/
+.ucf-bg-blue {
+	background-color: blue;
+	color: white;
+}
+.ucf-bg-green {
+	background-color: green;
+	color: white;
+}
+.ucf-bg-purple {
+	background-color: purple;
+	color: white;
+}
+.ucf-bg-orange {
+	background-color: orange;
+	color: white;
+}
+.ucf-bg-white {
+	background-color: white;
+}
+
 .displayInlineblock {
 	display: inline-block;
 }
@@ -113,10 +134,10 @@ body {
 	border: solid silver 1px;
 }
 
-.services-discount-txt {
-	color: orange;
-	font-weight: bold;
-	font-size: 1.1em;
+.card-footer-text {
+	margin: 0;
+	padding: 0;
+	color: white;
 }
 
 /*------------------Pricing Page-------*/
@@ -128,6 +149,13 @@ body {
 #contact {
 	background-color: #ededed;
 	border: solid silver 1px;
+}
+.card-header {
+	color: grey;
+	font-weight: 600;
+}
+.list-group {
+	color: black;
 }
 
 /*--------------------Footer */
