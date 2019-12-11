@@ -51,16 +51,7 @@ body {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
-#phone-us p {
-	padding: 0;
-	margin: 0;
-	color: #000000;
-	background-color: #e9ecef;
-	font-size: large;
-	font-weight: bold;
-	text-align: center;
-	padding-top: 5px;
-}
+
 
 .get-started-btn {
 	text-align: center;
@@ -151,16 +142,49 @@ body {
 #pricing {
 	background-color: #ededed;
 }
+.page-headings-description{
+	text-align: center;
+	color: grey;
+	padding-bottom: 15px;
+}
+
 
 /*-----------------Contact Page-----*/
 
 #contact {
-	background-color: #ededed;
-	padding: 2%;
+	background-color: #ffffff;
+	text-align: center;
+	color: #5588d3;
+	padding-top: 35px;
 }
+#phone-us p {
+	padding: 0;
+	margin: 0;
+	color: grey;
+	background-color: #e9ecef;
+	font-size: large;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 5px;
+}
+
 #contact img {
-	margin-bottom: 25px;
+	margin-bottom: 0px;
 }
+.contact-description{
+	text-align: center;
+	color: grey;
+	padding-bottom: 25px;
+}
+.contact-inner-container{
+	background-image: url("https://jk-cdi.github.io/ucfd001/assets/images/alex-kotliarskyi-QBpZGqEMsKg-unsplash-techsupport.jpg");
+	background-color: #cccccc; 
+	height: 700px; 
+	background-position: center; 
+	background-repeat: no-repeat; 
+	background-size: cover;
+}
+
 .page-headings-description {
 	margin-top: 25px;
 }
@@ -172,6 +196,74 @@ body {
 .list-group {
 	color: black;
 }
+
+/***** Form *********/
+
+.form-container{
+	margin: 50px;
+	margin-left: 40%;
+	padding: 10px;
+	width: 70%;
+	background-color: black;
+	opacity: 0.85;
+}
+
+.form-group{
+color: white;
+font-weight: bold;
+}
+
+
+
+/* Social Media Stickies Ref:// https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp*****/
+/* Decided to not use the stickie and use it as an inline block*/
+.icon-bar {
+  position: relative;
+  text-align: center;
+	margin-bottom: 20px;
+}
+
+.icon-bar a {
+	display: inline-block;
+	text-align: center;
+	width: 100px;
+	height: 100px;
+	padding: 25px;
+	transition: all 0.3s ease;
+	color: white;
+	font-size: 28px;
+	border-radius: 100%;
+  }
+  
+  /* Style the social media icons with color, if you want */
+  .icon-bar a:hover {
+	background-color: #000;
+  }
+  
+  .facebook {
+	background: #3B5998;
+	color: white;
+  }
+  
+  .twitter {
+	background: #55ACEE;
+	color: white;
+  }
+  
+  .google {
+	background: #dd4b39;
+	color: white;
+  }
+  
+  .linkedin {
+	background: #007bb5;
+	color: white;
+  }
+  
+  .whatsapp {
+	background: #25D366;
+	color: white;
+  }
 
 /*--------------------Footer */
 
