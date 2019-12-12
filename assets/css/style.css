@@ -226,9 +226,9 @@ font-weight: bold;
 .icon-bar a {
 	display: inline-block;
 	text-align: center;
-	width: 100px;
-	height: 100px;
-	padding: 25px;
+	width: 75px;
+	height: 75px;
+	padding: 15px;
 	transition: all 0.3s ease;
 	color: white;
 	font-size: 28px;
