@@ -116,6 +116,8 @@ body {
 
 .customer-quote-card {
 	margin-top: 15px;
+	min-width: 200px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card-text {
@@ -126,10 +128,15 @@ body {
 #services {
 	background-color: #ededed;
 }
+.card-deck{
+	margin: 0 auto;
+	justify-content: center;
+}
 .card {
-	min-width: 340px;
+	min-width: 200px;
 	max-width: 350px;
 	margin-top: 15px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 }
 
 .card-footer-text {
@@ -140,7 +147,7 @@ body {
 
 /*------------------Pricing Page-------*/
 #pricing {
-	background-color: #ededed;
+	background-color: #fafafa;
 }
 .page-headings-description{
 	text-align: center;
