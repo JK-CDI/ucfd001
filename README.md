@@ -1,67 +1,92 @@
-####### TEMPLATE UPDATE WITH INFO THEN DELETE THE COMMENT #####################
+ASTOR HOSTING
+Astor Hosting is one of the most trusted website hosting providers since 1995. With over 1 million websites utilizing our platform and infrastructure, we have maintained our commitment to providing the best in website hosting services and management tools. We focus on areas such as innovation, support, infrastructure, security, and our suite of cloud services web tools. Our aim is to make your hosting experience a positive one to align ourselves with your companies networking services to provide your users and customers a great experience.
 
-Your Project's Name
-One or two paragraphs providing an overview of your project.
-
-Essentially, this part is your sales pitch.
+--------------------------------------------------------------------------------------------------------
 
 UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+Astor Hosting User experience (UX) design process aims to create products that provide meaningful and relevant experiences to users.
+The UX was designed as a on page html app with different pages within  
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
+- The Product
+    : The website as a one page web app with internal pages accessible from a dynamic boostrap scroll spy navigation to provide customers with an access portal to purchase products and services with just a few clicks.
 
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included as a pdf file in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
+- Design
+    : The site was designed with modern web design tools to provide a easy UI and experience.
 
-Features
-In this section, you should go over the different parts of your project, and describe each in a sentence or so.
+- Usability
+    : Pages render well on a variety of devices and window or screen sizes. Content, design and performance to ensure usability and satisfaction.
 
-Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+--------------------------------------------------------------------------------------------------------
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+FEATURES
 
-Features Left to Implement
-Another feature idea
-Technologies Used
-In this section, you should mention all of the languages, frameworks, libraries, and any other tools that you have used to construct this project. For each, provide its name, a link to its official site and a short sentence of why it was used.
+# About Page
+Boostrap Navbar - BS navbar allows the sites navigation to be responsive on all devices and facilitate easy navigation.
 
-JQuery
-The project uses JQuery to simplify DOM manipulation.
+Boostrap Scrollspy - Scrollspy enables website to use the navigation tabs to go to different areas of the website when using one page web app.
+Used with a sticky nav bar the navigation area is allows in view and the correct area highlighted when active.
+
+Boostrap Carousel - Allows images and text to be displayed at the top of the website. 
+
+Boostrap Jumbotron - Highlights our marketing and give you the impression of our customer base.
+
+Customer endorsements - Customer endorsement comments use the boostrap cards with text only.
+
+--------------------------------------------------------------------------------------------------------
+# Services Page
+Boostrap Cards
+
+--------------------------------------------------------------------------------------------------------
+
+# Pricing Page
+Boostrap Cards
+
+--------------------------------------------------------------------------------------------------------
+# Contact Page
+Boostrap Form
+
+--------------------------------------------------------------------------------------------------------
+
+Technologies Used
+Languages: Html5, Css3, Javascript.
+libraries: JQuery, Boostrap.
+
+https://getbootstrap.com/
+To enable and build responsive, mobile-first projects..
+
+https://fonts.google.com/
+Exapnd the default fonts with free licensed fonts from google used through a cdn and CSS.
+
+https://jquery.com/
+Enables boostrap to work and customization in DOM manipulation.
+
+https://fontawesome.com/v4.7.0/icons/
+Enables use of icons for more improved Ui experience.
+
+https://www.w3schools.com/cssref/default.asp
+Used for reference in all areas of the UI
+
+https://color.adobe.com/create
+Adobe color wheel to aid in color picking and UI 
+
+--------------------------------------------------------------------------------------------------------
+
 Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+Testing was manualy completed after every change and code update.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
-
+--------------------------------------------------------------------------------------------------------
 Deployment
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
+The site was deployed to Github early on in the project to allow sharing with mentor and the progression of the UI live. 
 
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
-
+--------------------------------------------------------------------------------------------------------
 Credits
 Content
-The text for section Y was copied from the Wikipedia article Z
+Social Media buttons 
+   ref: // https://www.w3schools.com/howto/howto_css_sticky_social_bar.asp
+
+--------------------------------------------------------------------------------------------------------
 Media
-The photos used in this site were obtained from ...
-Acknowledgements
-I received inspiration for this project from X
+The photos used in this site were obtained from
+https://unsplash.com/s/photos/hand
+All photographers are credited in the filename of the images.
+
