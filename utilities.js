@@ -38,4 +38,7 @@ buttonElement.addEventListener('click', function (event) {
     const checkOutControl = new CheckOutControl();
     const app = checkOutControl;
     app.checkOutMessage("thankyou");
+
+    // Prevent default action of DOM refresh after form submit
+    event.preventDefault();
 });
