@@ -1,0 +1,433 @@
+################ WEEK 09 - 13/12/2019 ########################################
+commit 16aed667d2d6b7f7827eac1413604e44c889a2b4 (HEAD -> master, origin/master)
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 17 14:03:43 2019 +0000
+
+    Defer scripts
+
+commit eefe6433fc7a506daf68793b5275e7f629326997
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 17 13:49:06 2019 +0000
+
+    Add prevent default on Event Listener
+
+commit 8154788a77b9377073cbd46ac52832cae95c8ff7
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 17 13:45:17 2019 +0000
+
+    script paths  and minor elements changes
+
+commit 99483090bf37aa9124b3314b0d42d2d2bff6f235
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 17 13:42:56 2019 +0000
+
+    Styles updated for navbar active and hover
+
+commit 15fe08d470c0d63b9eeb3287904317ff617e1486
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 17 13:41:30 2019 +0000
+
+    Checkout page to assist with orders fro index.html
+
+commit 67527e2e37ddc0a1c088daa65735827e733530a5
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 17 13:38:18 2019 +0000
+
+    Created a CheckOut Object to help with UI messages
+
+commit 9005eaec533b3a626b83855bc895dce3e00eb340
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 17 13:36:50 2019 +0000
+
+    Boostrap JQ Helpers
+
+commit a6e28a3fc32c819a61657c0e83bd449e95ee34de
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 16 14:12:16 2019 +0000
+
+    Update ReadMe.md
+
+commit 697aa004021059f2a6c78d54d0da9a2c8a82e20d
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 16 13:27:25 2019 +0000
+
+    Update on card Text
+
+commit e027d9c4597f8dfb240a0e06844a7f291a95b878
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 16 13:14:32 2019 +0000
+
+    Page Title Name Updated
+
+commit af1a973990ed50ae1cb27bc9922b256c2bd2167a
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 16 13:13:29 2019 +0000
+
+    Added Code Comments
+
+commit 97f7f653a4d0831b11db19c04b6ca53bccb68bcf
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 16 13:11:22 2019 +0000
+
+    Project Folders Cleanup
+
+commit 728cb254fa9b02381e2fb3bc706127f0e28803f5
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 13:19:25 2019 +0000
+
+    UI Update minor typo fixes
+
+commit 9b15d79fb1fb675bc0dbffe9774a061ea0b31cfc
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 13:07:21 2019 +0000
+
+    UI Update minor typo fixes
+
+commit aac71f06b56ec104cc17bb235d8f8adb0f1754df
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 13:05:38 2019 +0000
+
+    UI Update Minor changes to bring elements forward
+
+commit 69bb7431c3e98aaaab6d9529e510ecbd20f47bf1
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 13:04:46 2019 +0000
+
+    css update for images
+
+commit afbf3ca6fa0953d4ac6874af7d6cc0dcf5b7b055
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 13:03:41 2019 +0000
+
+    image update
+
+commit 8fb7f51cabcb9411f36ce42daf1f404ac0e94be6
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 13:03:19 2019 +0000
+
+    image update
+
+commit 811d6df606f661afdf52829b253084267602d093
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 13:02:57 2019 +0000
+
+    image update
+
+commit da0e9c1f29f6cb3f50176f2dc8f073387b62b757
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 11:07:18 2019 +0000
+
+    Updated UI for index#contact
+
+commit 0c3c0c0da04a1f892f09918b1c7bc5d45374d715
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 11:06:52 2019 +0000
+
+    Updated styles for contact
+
+commit 03544676d1aeefc2e669992f9b12d238b40b7c96
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 09:26:24 2019 +0000
+
+    Updated styles for pricing, services. removed vpn services
+
+commit f34da52d99246dd0e229c1496516a636420486af
+Author: Jikme <Jikme@github.com>
+Date:   Sat Dec 14 09:26:00 2019 +0000
+
+    Updated styles for pricing, services
+
+commit 2162b88a65706b05a2158078701ef2e33bbf6f04
+Author: Jikme <Jikme@github.com>
+Date:   Thu Dec 12 09:38:52 2019 +0000
+
+    update social media icon styles
+
+commit bacafedf653c0716b933abc2d89673345a97d12c
+Author: Jikme <Jikme@github.com>
+Date:   Wed Dec 11 19:26:31 2019 +0000
+
+    typo on index.html row outside element
+
+commit 248e1392fb8417d78efa8eca597d98c0cb38b5bd
+Author: Jikme <Jikme@github.com>
+Date:   Wed Dec 11 19:23:55 2019 +0000
+
+    UI updates, icons, fonts, info cards, prices
+
+commit 2a4818a8760133f9e58dc547a91810f84b595c98
+Author: Jikme <Jikme@github.com>
+Date:   Wed Dec 11 19:23:18 2019 +0000
+
+    UI updates, icons, fonts, info cards, prices
+
+commit 8e4e3ffb7fd2e00927fe4607f5625607556f5233
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 16:45:46 2019 +0000
+
+    minor headings margin-top alignment adjustment
+
+commit 05f5bff53dea7589c13bd66323081450147c3837
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 16:37:59 2019 +0000
+
+    minor text update
+
+commit da7875bd89400a28d754f78e5b6f6d4d69c0a694
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 16:35:02 2019 +0000
+
+    Updated css for UI changes
+
+commit 8f29dc89eb9b8e691318063f5746189a9f97e446
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 16:34:33 2019 +0000
+
+    Updated UI with softer colors and icons
+
+commit 3aa2caf7a56901fecdad060da98dd4a2ce37f836
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 13:53:19 2019 +0000
+
+    Price Card Intermediate update
+
+commit 75f0b4a1993aa54e3a5bed440c47e3e446e65b47
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 12:16:27 2019 +0000
+
+    Price Card Intermediate update
+
+commit 6bd0511db727fd05cfe0d44ae1891ae09e1b9b24
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 11:49:10 2019 +0000
+
+    Before price card UI update
+
+commit 780dd948c19995c208ae4869a75cfd11efd38dfc
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 11:46:49 2019 +0000
+
+    Image Minify
+
+commit 0025b4fb60a49e2654351bd46f4e9103cf2b5746
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 11:31:21 2019 +0000
+
+    UI Update Images Addded to Services Cards
+
+commit b2d9519545a93e2cb328c347b75c528c19749d79
+Author: Jikme <Jikme@github.com>
+Date:   Mon Dec 9 11:15:02 2019 +0000
+
+    UI Cleanup multiple pages
+
+commit 56231ad37455d3d66535d6c5b124f189d3d633cf
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:50:49 2019 +0000
+
+    Worklog ref git log
+
+commit d3aea38e8d0adbd6397df2d584347d5cc5e2f6c3
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:39:23 2019 +0000
+
+    Add messahe bar at top #phone-us
+
+commit b7a7fbc1cda5971b5026fabfb2c31cf5a434f8e7
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:38:42 2019 +0000
+
+    Updated css message bar at top #phone-us p
+
+commit 65eaae68edfa5d337dc11f3c0d70b08d7149dba6
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:05:17 2019 +0000
+
+    Images Updated
+
+commit 518add899fe13e48bf838afb03ba8b22090e2ae7
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:58:12 2019 +0000
+
+    Updated css
+
+commit 86a884e98f7e7c653854e68224d24ec09338e7e3
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:57:03 2019 +0000
+
+    After BS Auto focus nav Scroll
+
+commit eee78f4750380dab45b66b81ade4464614101c13
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:55:06 2019 +0000
+
+    JS custom utilities for bootstrap
+
+commit 6b883e56e2ded314f6b68de50aea4ef93b6bdc7d
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 09:24:47 2019 +0000
+
+    Index.html before Boostrap Scrollspy Implementation
+
+commit b5467f4f2a1c14b0314c8cd85f19fe6fa27fb86c
+Author: Jikme <Jikme@github.com>
+Date:   Thu Dec 5 18:03:09 2019 +0000
+
+    Logo v1.0 design with css
+
+commit d14d0327e7c9f05ccf4bfcc7e0f672726b3f3ce5
+Author: Jikme <Jikme@github.com>
+Date:   Thu Dec 5 17:51:19 2019 +0000
+
+    Compressed Images and Scaled
+
+commit c099a71ac0f5130d1c0f9d4e2c16b4efdb3c8620
+Author: Jikme <Jikme@github.com>
+Date:   Thu Dec 5 17:42:07 2019 +0000
+
+    About Section, Custome Quotes added
+
+commit c83e34cc2307b8e5044611e341657d3355852bad
+Author: Jikme <Jikme@github.com>
+Date:   Thu Dec 5 12:22:43 2019 +0000
+
+    Wireframe Basic Setup: Mentor Meet Ready
+
+commit 1d6ad7f5c0b06bd12976b2b8307738327ee00d39
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 3 13:57:04 2019 +0000
+
+    Preliminary Wire Mock Up Idea v1.0
+
+commit e8fcde07ea16a58332acc945db01f97d98fb792c
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 3 12:31:56 2019 +0000
+
+    Initialise bootstrap index.html
+
+commit 526523246dcc05bee917b3d880c465ba2c44da3f
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 3 12:21:27 2019 +0000
+
+    services.html add page
+
+commit db00ede5267d9eb10b3302b3f317d8a4b86eb6d1
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 3 12:03:43 2019 +0000
+
+    Init
+
+commit bc77a0c524fb37848ff870dd40d7967570926234
+Author: Jikme <Jikme@github.com>
+Date:   Tue Dec 3 12:02:53 2019 +0000
+
+    README.md
+
+################ WEEK 01 02 - 06/12/2019 ########################################
+
+/*
+	
+* intial design idea comitted
+* Implemented Working Features Mostly Boostrap some custom CSS and JQuery:
+	- One Page html app
+	- Nav bar with auto focus on nav links
+	- Image / Marketing text Carousel X 3
+	- Jumbotron / TXT.
+Customization:
+	- We required custom CSS to allow the elements sit correctly and adjust fonts
+	- We required a minimal JQuery JS function to allow for the nav to auto focus active elements when scrolling down the one app page.
+	- Free Stock images resized and compressed
+*/ 
+commit d3aea38e8d0adbd6397df2d584347d5cc5e2f6c3 (HEAD -> master, origin/master)
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:39:23 2019 +0000
+
+    Add messahe bar at top #phone-us
+
+:...skipping...
+commit d3aea38e8d0adbd6397df2d584347d5cc5e2f6c3 (HEAD -> master, origin/master)
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:39:23 2019 +0000
+
+    Add message bar at top #phone-us
+
+commit b7a7fbc1cda5971b5026fabfb2c31cf5a434f8e7
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:38:42 2019 +0000
+
+    Updated css message bar at top #phone-us p
+
+commit 65eaae68edfa5d337dc11f3c0d70b08d7149dba6
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:05:17 2019 +0000
+
+    Images Updated
+
+commit 518add899fe13e48bf838afb03ba8b22090e2ae7
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:58:12 2019 +0000
+
+    Updated css
+
+commit 86a884e98f7e7c653854e68224d24ec09338e7e3
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:57:03 2019 +0000
+
+    After BS Auto focus nav Scroll
+
+commit eee78f4750380dab45b66b81ade4464614101c13
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:55:06 2019 +0000
+
+    JS custom utilities for bootstrap
+
+commit 6b883e56e2ded314f6b68de50aea4ef93b6bdc7d
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 09:24:47 2019 +0000
+
+:...skipping...
+commit d3aea38e8d0adbd6397df2d584347d5cc5e2f6c3 (HEAD -> master, origin/master)
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:39:23 2019 +0000
+
+    Add messahe bar at top #phone-us
+
+commit b7a7fbc1cda5971b5026fabfb2c31cf5a434f8e7
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:38:42 2019 +0000
+
+    Updated css message bar at top #phone-us p
+
+commit 65eaae68edfa5d337dc11f3c0d70b08d7149dba6
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 12:05:17 2019 +0000
+
+    Images Updated
+
+commit 518add899fe13e48bf838afb03ba8b22090e2ae7
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:58:12 2019 +0000
+
+    Updated css
+
+commit 86a884e98f7e7c653854e68224d24ec09338e7e3
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:57:03 2019 +0000
+
+    After BS Auto focus nav Scroll
+
+commit eee78f4750380dab45b66b81ade4464614101c13
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 11:55:06 2019 +0000
+
+    JS custom utilities for bootstrap
+
+commit 6b883e56e2ded314f6b68de50aea4ef93b6bdc7d
+Author: Jikme <Jikme@github.com>
+Date:   Fri Dec 6 09:24:47 2019 +0000
+
+    Index.html before Boostrap Scrollspy Implementation
+:
+
+##################################################################
+
