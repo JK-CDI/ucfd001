@@ -1,5 +1,5 @@
 ASTOR HOSTING
-Astor Hosting is one of the most trusted website hosting providers since 1995. With over 1 million websites utilizing our platform and infrastructure, we have maintained our commitment to providing the best in website hosting services and management tools. We focus on areas such as innovation, support, infrastructure, security, and our suite of cloud services web tools. Our aim is to make your hosting experience a positive one to align ourselves with your companies networking services to provide your users and customers a great experience.
+Astor Hosting is one of the most trusted website hosting providers since 1995. With over 1 million websites utilizing our platform and infrastructure,we have maintained our commitment to providing the best in website hosting services and management tools. We focus on areas such as innovation,support, infrastructure, security, and our suite of cloud services web tools. Our aim is to make your hosting experience a positive one to align ourselves with your companies networking services to provide your users and customers a great experience.
 
 --------------------------------------------------------------------------------------------------------
 
