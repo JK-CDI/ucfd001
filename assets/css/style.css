@@ -8,24 +8,45 @@ body {
 	position: relative;
 }
 
+a{
+	text-decoration: none;
+}
+
 /*-------------Custom Colors-------------*/
 
 .ucf-bg-blue {
 	background-color: #4d4dff;
 	color: white;
 }
+#card-footer-blue:hover{
+
+	color: white;
+	background-color: #3E3ECF;
+	font-weight: bolder;
+}
+
+
 .ucf-bg-green {
 	background-color: #39ac73;
 	color: white;
+}
+#card-footer-green:hover{
+
+	color: white;
+	background-color: #268053;
+	font-weight: bolder;
 }
 .ucf-bg-purple {
 	background-color:  #bf40bf;
 	color: white;
 }
-.ucf-bg-orange {
-	background-color: orange;
+#card-footer-purple:hover{
+
 	color: white;
+	background-color: #692469;
+	font-weight: bolder;
 }
+
 .ucf-bg-white {
 	background-color: white;
 }
@@ -40,7 +61,10 @@ body {
 	margin: 10px;
 	background-color: rgb(106, 206, 38);
 	color: white;
+
 }
+
+
 
 /*---------------Custom alignments--------*/
 

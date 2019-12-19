@@ -21,6 +21,9 @@ The UX was designed as a on page html app with different pages with
 FEATURES
 
 # About Page
+
+:: /index.html#about
+
 Boostrap Navbar - BS navbar allows the sites navigation to be responsive on all devices and facilitate easy navigation.
 
 Boostrap Scrollspy - Scrollspy enables website to use the navigation tabs to go to different areas of the website when using one page web app.
@@ -34,18 +37,73 @@ Customer endorsements - Customer endorsement comments use the boostrap 
 
 --------------------------------------------------------------------------------------------------------
 # Services Page
+
+:: /index.html#services
+
 Boostrap Cards
+Enables a view to the services provided by the company and links to the pricing page with color coded cards for easy identifying of the service and price. 
 
 --------------------------------------------------------------------------------------------------------
 
 # Pricing Page
+
+:: /index.html#pricing
+
 Boostrap Cards
+Enables the customer to identify the services and pricing for that service with added functionality to purchase through a shopping cart style interface. 
 
 --------------------------------------------------------------------------------------------------------
 # Contact Page
+
+:: /index.html#page
+
 Boostrap Form
+All the companies contact details are availible phone, email, social media.
 
 --------------------------------------------------------------------------------------------------------
+
+# Support Page
+
+:: /support/tickets.html
+
+Boostrap Form
+Enables the customer to open a support ticket through a contact form.
+
+--------------------------------------------------------------------------------------------------------
+
+# Knowledgebase Page
+
+:: /support/knowledgebase.html
+
+Boostrap Form
+Enables the customer to search a potential knowledgebase wiki. 
+
+--------------------------------------------------------------------------------------------------------
+
+# Terms & Conditions Page
+
+:: /company/termsconditions.html
+
+ Companies T&C
+
+--------------------------------------------------------------------------------------------------------
+
+# Privacy Page
+
+:: /company/privacy.html
+
+ Companies Privacy Policy
+
+--------------------------------------------------------------------------------------------------------
+
+# Customer Chat Page
+
+:: /company/customerchat.html
+
+ Companies Customer chat portal
+
+--------------------------------------------------------------------------------------------------------
+
 
 Technologies Used
 Languages: Html5, Css3, Javascript.
@@ -73,6 +131,13 @@ Adobe color wheel to aid in color picking and UI 
 
 Testing
 Testing was manualy completed after every change and code update.
+
+- Navbar spyscroll
+- All links paths
+- Forms submit
+- JS works with no known errors
+- Page load time is relative and standard.
+- Website is responive across devices
 
 --------------------------------------------------------------------------------------------------------
 Deployment
