@@ -146,8 +146,8 @@ Desktop:
     - Best Practices 100%
     - SEO 89%
 
-DocPath: \wireframe\testing\testMobileDevices20-12-2019-jk-cdi.github.io-20191220T083550.html
-DocPath: \wireframe\testing\testDesktop20-12-2019-jk-cdi.github.io-20191220T083549.html
+DocPath: https://github.com/JK-CDI/ucfd001/wireframe/testing/testMobileDevices20-12-2019-jk-cdi.github.io-20191220T083550.html
+DocPath: https://github.com/JK-CDI/ucfd001/wireframe/testing/testDesktop20-12-2019-jk-cdi.github.io-20191220T083549.html
 
 All Forms tested with html validation required fields <input ....required>
 
