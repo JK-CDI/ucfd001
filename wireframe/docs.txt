@@ -1,5 +1,0 @@
-Website General features
-
-- Sticky responsive menu at the top of page.
-- One page Static site that scroll down to the new content when links are clicked.
-- First item Carousel to display Services

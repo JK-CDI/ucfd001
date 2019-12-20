@@ -30,9 +30,9 @@ function CheckOutControl() {
 }
 
 
-// Setup a listener on the form submit button
-const buttonElement = document.getElementById('form-submit');
-buttonElement.addEventListener('click', function (event) {
+// Setup a listener on the form submit
+const formElement = document.getElementById('checkout-form');
+formElement.addEventListener('submit', function (event) {
 
     // When teh event of recieved we create a new object and call the objects method!
     const checkOutControl = new CheckOutControl();

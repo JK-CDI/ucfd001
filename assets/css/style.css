@@ -115,6 +115,10 @@ hr{
 	padding: 0.4rem 1rem;
 }
 
+.col-md-8{
+	max-width: 90%;
+}
+
 /*---------------- carousel custom --- */
 .carousel-item {
 	max-height: 500px;
